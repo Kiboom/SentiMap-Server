@@ -34,3 +34,6 @@ node_modules
 
 # DB info
 *.json
+
+# OLD python
+hello.py
