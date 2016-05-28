@@ -1,5 +1,6 @@
 #SentiMap Server Application
-Node.js와 Express를 활용한 SentiMap Server Application입니다. 
+Node.js와 Express를 활용한 SentiMap Server Application입니다.  
+[SentiMap iOS github](https://github.com/Kiboom/SentiMap)
 
 ##사용 기술  
 - Node.js
